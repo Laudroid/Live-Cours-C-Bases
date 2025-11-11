@@ -6,9 +6,7 @@
 - Être capable d'écrire, compiler et exécuter des programmes C simples.
 - Maîtriser les types de données, les opérateurs, les structures de contrôle et les fonctions de base.
 - Acquérir les bonnes pratiques de codage.
-## Séance 1 : Séance 1: Introduction au Langage C et Environnement de Développement (3 heures)
-
-**Durée :** undefined
+## Séance 1 : Introduction au Langage C et Environnement de Développement
 
 ### Objectifs pédagogiques
 
@@ -39,9 +37,7 @@
 - L'importance des commentaires (`//` et `/* */`).
 - Conventions de nommage simples.
 - Lisibilité du code.
-## Séance 2 : Séance 2: Les Fondamentaux du C (4 heures)
-
-**Durée :** undefined
+## Séance 2 : Les Fondamentaux du C
 
 ### Objectifs pédagogiques
 
@@ -77,9 +73,7 @@
 - Constantes littérales.
 - Constantes symboliques avec `#define`.
 - Constantes avec `const` (variables en lecture seule).
-## Séance 3 : Séance 3: Structures de Contrôle (4 heures)
-
-**Durée :** undefined
+## Séance 3 : Structures de Contrôle
 
 ### Objectifs pédagogiques
 
@@ -110,9 +104,7 @@
 
 - Exemples d'utilisation combinée des conditions et boucles.
 - Pseudo-code pour résoudre des problèmes simples.
-## Séance 4 : Séance 4: Fonctions et Modularité (4 heures)
-
-**Durée :** undefined
+## Séance 4 : Fonctions et Modularité
 
 ### Objectifs pédagogiques
 
